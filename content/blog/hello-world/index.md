@@ -1,7 +1,18 @@
 ---
 title: Hello World
 date: "2015-05-01T22:12:03.284Z"
+hola:
+  hi: leoo
+  ho: qwdads
 ---
+
+`youtube: gdviJzEwShE`
+
+
+---youtube: gdviJzEwShE---
+
+
+[[youtube: gdviJzEwShE]]
 
 This is my first post on my new fake blog! How exciting!
 
